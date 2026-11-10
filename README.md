@@ -19,7 +19,7 @@ I'm a Class 10 student, maker, and aspiring computer science engineer focused on
 - [ ] MS Abroad
 
 📫 Connect With Me
-- **Portfolio:** [Md Ayaan Akhter](https://portfolio-ayaan-akhter.netlify.app/)
+- **Portfolio:** [Md Ayaan Akhter](https://portfolio-ayaan-akhter.vercel.app/)
 - **LinkedIn:** [Ayaan Akhter](https://www.linkedin.com/in/ayaan-akhter-966605377)
 - **Instagram:** [@ayaan__78690](https://instagram.com/ayaan__78690)
 - **X (Twitter):** [@Psyka__777](https://x.com/Psyka__777)
